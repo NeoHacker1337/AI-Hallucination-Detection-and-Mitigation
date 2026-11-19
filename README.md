@@ -505,5 +505,6 @@ See [Research Alignment](docs/RESEARCH_ALIGNMENT.md) for the connection between 
 **HalluGuard — Detect uncertainty. Verify claims. Reduce hallucinations.**
 
 *Built for reproducible research into trustworthy language models.*
+*Mahender Singh (Full Stack Developer)*
 
 </div>

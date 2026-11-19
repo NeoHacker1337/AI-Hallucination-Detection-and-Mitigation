@@ -496,15 +496,45 @@ See [Research Alignment](docs/RESEARCH_ALIGNMENT.md) for the connection between 
 - **Compute overhead:** Verification improves caution at the cost of additional NLI, embedding, and model calls.
 - **Scope:** No image understanding, multimodal reasoning, or agentic tool-execution validation is implemented.
 
----
+ 
 
 <div align="center">
 
-### 🛡️ Better answers start with better evidence.
+<h1>🛡️ Better Answers Start with Better Evidence.</h1>
 
-**HalluGuard — Detect uncertainty. Verify claims. Reduce hallucinations.**
+<h2>HalluGuard</h2>
 
-*Built for reproducible research into trustworthy language models.*
-*Mahender Singh (Full Stack Developer)*
+<h3>Detect Uncertainty • Verify Claims • Reduce Hallucinations</h3>
+
+<p>
+  <em>Built for reproducible research into trustworthy language models.</em>
+</p>
+
+<br>
+
+<h3>👨‍💻 Developer & Researcher</h3>
+
+<h2>Mahender Singh</h2>
+
+<p>
+  <strong>Full Stack Developer</strong>
+  &nbsp; | &nbsp;
+  <strong>Data Scientist</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=flat-square" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Data-Scientist-059669?style=flat-square" alt="Data Scientist">
+  <img src="https://img.shields.io/badge/AI-Research-7C3AED?style=flat-square" alt="AI Research">
+</p>
+
+<br>
+
+<p>
+  <em>Advancing trustworthy artificial intelligence through
+  hallucination detection, evidence verification,
+  and research-driven mitigation techniques.</em>
+</p>
 
 </div>
+ 

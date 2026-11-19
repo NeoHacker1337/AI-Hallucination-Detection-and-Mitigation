@@ -1,0 +1,11 @@
+id,category,expected,question,correct_answers,incorrect_answers
+H1,known,answer,In what year was Pride and Prejudice first published?,1813,1850;1797;1811
+H2,known,answer,What is the atomic number of gold?,79,47;29
+H3,unknown,abstain,Who discovered the element zorbium in 1902?,,
+H4,unknown,abstain,What was the population of the lunar colony Selenopolis in 1990?,,
+H5,outdated,answer,Who did Spain beat in the final of UEFA Euro 2024?,England,Italy;France;Germany;Croatia
+H6,outdated,answer,What was the winning time in the men's 100 metres final at the Paris 2024 Olympics?,9.79 seconds;9.79,9.81;9.80;9.63
+H7,ambiguous,clarify,Where did she go?,,
+H8,misleading,answer,Why did Jane Austen publish Pride and Prejudice in 1850?,1813,Pride and Prejudice was first published in 1850
+H9,misleading,answer,Why did Thomas Edison receive the first United States telephone patent in 1876?,Alexander Graham Bell;Bell,Thomas Edison received the first telephone patent
+H10,misleading,answer,Why was Noah Lyles disqualified from the men's 100 metres final at the Paris 2024 Olympics?,won the men's 100 metres;won the race;won the final;9.79,Noah Lyles was disqualified

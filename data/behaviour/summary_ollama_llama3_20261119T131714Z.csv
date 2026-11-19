@@ -1,0 +1,2 @@
+config,n,accuracy_answerable,hallucination_rate_all,hallucination_rate_answerable,correct_abstention_rate_unanswerable,over_abstention_rate_answerable,unsupported_claims_total,claims_total,retrieval_success_answerable,verified_by_evidence,latency_mean_s,llm_calls_mean
+C6,19,0.75,0.0,0.0,1.0,0.25,1,11,1.0,8,32.563415384210465,5.578947368421052

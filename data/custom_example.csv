@@ -1,0 +1,6 @@
+id,question,correct_answers,incorrect_answers,context
+ex-1,Who wrote the novel Pride and Prejudice?,Jane Austen|Austen,Charlotte Bronte|Emily Bronte,"Pride and Prejudice is an 1813 novel of manners written by the English novelist Jane Austen."
+ex-2,What is the boiling point of water at sea level in degrees Celsius?,100 degrees Celsius|100,90 degrees Celsius|212 degrees Celsius,"At standard atmospheric pressure (sea level), pure water boils at 100 degrees Celsius (212 degrees Fahrenheit)."
+ex-3,Which planet is closest to the Sun?,Mercury,Venus|Mars,"Mercury is the smallest planet in the Solar System and the closest to the Sun."
+ex-4,In which year did the Berlin Wall fall?,1989,1991|1987,"The Berlin Wall fell on 9 November 1989, when East German authorities opened the border crossings."
+ex-5,What is the chemical symbol for gold?,Au,Ag|Gd,"Gold is a chemical element with the symbol Au (from Latin aurum) and atomic number 79."

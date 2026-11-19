@@ -1,0 +1,6 @@
+category,config,n,handled_correctly,hallucinated,abstained,latency_mean_s
+known,C6,4,1.0,0.0,0.0,29.03762384999993
+unknown,C6,4,1.0,0.0,1.0,3.897972600000003
+outdated,C6,5,0.6,0.0,0.4,69.21859591999991
+ambiguous,C6,3,1.0,0.0,1.0,4.38409856666658
+misleading,C6,3,0.6666666666666666,0.0,0.3333333333333333,42.57241039999993

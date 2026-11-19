@@ -1,0 +1,11 @@
+{
+  "name": "halueval-two-models-pilot",
+  "dataset": "halueval_qa",
+  "sample_size": 30,
+  "seed": 42,
+  "models": ["ollama:llama3", "ollama:mistral"],
+  "configurations": ["C0", "C1", "C2", "C3", "C4", "C5"],
+  "judge": {"mode": "nli", "entail_threshold": 0.5},
+  "pipeline_overrides": {"n_samples": 5, "max_tokens": 200},
+  "queue_escalations": false
+}
